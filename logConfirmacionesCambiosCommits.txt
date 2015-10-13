@@ -1,0 +1,126 @@
+commit 5dfdda6d20226477d14212c788ff66dd4a407b2a
+Merge: b55ff4b a71ae6b
+Author: Rafael Alberti <alberti.rafa@gmail.com>
+Date:   Tue Oct 13 22:09:53 2015 +0100
+
+    Merge branch 'master' of https://github.com/alberti1/github-demo
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+commit b55ff4be1be705a462793c8f85f576c1b057e85a
+Author: Rafael Alberti <alberti.rafa@gmail.com>
+Date:   Tue Oct 13 22:08:11 2015 +0100
+
+    Ponemos un nuevo mensaje!
+
+diff --git a/hola.txt b/hola.txt
+index 6429a4f..2ff41b8 100644
+--- a/hola.txt
++++ b/hola.txt
+@@ -1,2 +1,3 @@
+ hola que tal
+ hola este es un nuevo cambio
++hola que tal, tercera linea
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+commit a71ae6b291a7c2bf972dddd8b3772aaecebe8746
+Author: alberti1 <alberti.rafa@gmail.com>
+Date:   Tue Oct 13 22:06:43 2015 +0100
+
+    Nuevo cambio nuevo commit
+
+diff --git a/ficheroOnline b/ficheroOnline
+index 7e101c7..88cc0eb 100644
+--- a/ficheroOnline
++++ b/ficheroOnline
+@@ -1 +1,2 @@
+ Este es un nuevo fichero en el repositorio!!
++Hacemos nuevos cambios!
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+commit a121543dd3c5a02a54a81409f05a9370d64b34aa
+Author: alberti1 <alberti.rafa@gmail.com>
+Date:   Tue Oct 13 22:06:04 2015 +0100
+
+    Nuevo readme
+
+diff --git a/README2.md b/README2.md
+new file mode 100644
+index 0000000..e9c14eb
+--- /dev/null
++++ b/README2.md
+@@ -0,0 +1,3 @@
++# github-demo
++He aniadido un nuevo readme
++Simple basic repository to show the basic GIT workflow
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+commit 5c251726c3780b1dc7dbb66ad6e7756291b8f28e
+Merge: c8dc423 7f3812a
+Author: Rafael Alberti <alberti.rafa@gmail.com>
+Date:   Tue Oct 13 22:04:50 2015 +0100
+
+    Merge branch 'master' of https://github.com/alberti1/github-demo
+
+commit c8dc423a9191e41e6a217bf62239bca38ffe14f7
+Author: Rafael Alberti <alberti.rafa@gmail.com>
+Date:   Tue Oct 13 22:03:35 2015 +0100
+
+    El nuevo cambio
+
+diff --git a/hola.txt b/hola.txt
+index d246895..6429a4f 100644
+--- a/hola.txt
++++ b/hola.txt
+@@ -1 +1,2 @@
+ hola que tal
++hola este es un nuevo cambio
+
+commit 2feb7883d9cbc4e700b6796351dd07334272277c
+Author: Rafael Alberti <alberti.rafa@gmail.com>
+Date:   Tue Oct 13 22:00:46 2015 +0100
+
+    Este es un nuevo cambio
+
+diff --git a/sinead.txt b/sinead.txt
+index e69de29..5c1b149 100644
+--- a/sinead.txt
++++ b/sinead.txt
+@@ -0,0 +1 @@
++hola
+
+commit 7f3812a1e706b1a1936c42ea1bfda4a8818f49c0
+Author: alberti1 <alberti.rafa@gmail.com>
+Date:   Tue Oct 13 21:55:26 2015 +0100
+
+    Create readme.md
+    
+    hola
+
+diff --git a/README1.md b/README1.md
+new file mode 100644
+index 0000000..327bcb3
+--- /dev/null
++++ b/README1.md
+@@ -0,0 +1,2 @@
++# github-demo
++Simple basic repository to show the basic GIT workflow
+
+commit 55627d964f39ab0692934fa770480bdf087ceede
+Merge: ad42f65 51ee978
+Author: Rafael Alberti <alberti.rafa@gmail.com>
+Date:   Tue Oct 13 21:52:01 2015 +0100
+
+    Merge branch 'master' of https://github.com/alberti1/github-demo
+
+commit ad42f65e863c84ba626073af8ac8d61382574ca6
+Author: Rafael Alberti <alberti.rafa@gmail.com>
+Date:   Tue Oct 13 21:11:55 2015 +0100
+
+    nuevo commit
+
+diff --git a/hola.txt b/hola.txt
+index e69de29..d246895 100644
+--- a/hola.txt
++++ b/hola.txt
+@@ -0,0 +1 @@
++hola que tal
