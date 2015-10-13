@@ -1,0 +1,46 @@
+32cdb04 eeee
+ logConfirmacionesCambiosCommits.txt | 126 ++++++++++++++++++++++++++++++++++++
+ 1 file changed, 126 insertions(+)
+5dfdda6 Merge branch 'master' of https://github.com/alberti1/github-demo
+b55ff4b Ponemos un nuevo mensaje!
+ hola.txt | 1 +
+ 1 file changed, 1 insertion(+)
+a71ae6b Nuevo cambio nuevo commit
+ ficheroOnline | 1 +
+ 1 file changed, 1 insertion(+)
+a121543 Nuevo readme
+ README2.md | 3 +++
+ 1 file changed, 3 insertions(+)
+5c25172 Merge branch 'master' of https://github.com/alberti1/github-demo
+c8dc423 El nuevo cambio
+ hola.txt | 1 +
+ 1 file changed, 1 insertion(+)
+2feb788 Este es un nuevo cambio
+ sinead.txt | 1 +
+ 1 file changed, 1 insertion(+)
+7f3812a Create readme.md
+ README1.md | 2 ++
+ 1 file changed, 2 insertions(+)
+55627d9 Merge branch 'master' of https://github.com/alberti1/github-demo
+ad42f65 nuevo commit
+ hola.txt | 1 +
+ 1 file changed, 1 insertion(+)
+51ee978 Este commit online
+ ficheroOnline | 1 +
+ 1 file changed, 1 insertion(+)
+2011d43 nuevos ficheros
+ hola.txt   | 0
+ sinead.txt | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+a0c0327 claroooo
+ start.txt | 1 +
+ 1 file changed, 1 insertion(+)
+850810e holaaaaaaaaaaaaaaa
+ start.txt | 1 +
+ 1 file changed, 1 insertion(+)
+0f4587a gueyyy the second change is arriving
+ start.txt | 2 ++
+ 1 file changed, 2 insertions(+)
+2087e57 hola k pasa pringao
+ start.txt | 1 +
+ 1 file changed, 1 insertion(+)

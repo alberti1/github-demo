@@ -1,0 +1,302 @@
+commit 32cdb046d737c7127667714888f46efd819b0390
+Author: Rafael Alberti <alberti.rafa@gmail.com>
+Date:   Tue Oct 13 22:55:26 2015 +0100
+
+    eeee
+
+ logConfirmacionesCambiosCommits.txt | 126 ++++++++++++++++++++++++++++++++++++
+ 1 file changed, 126 insertions(+)
+
+commit 5dfdda6d20226477d14212c788ff66dd4a407b2a
+Merge: b55ff4b a71ae6b
+Author: Rafael Alberti <alberti.rafa@gmail.com>
+Date:   Tue Oct 13 22:09:53 2015 +0100
+
+    Merge branch 'master' of https://github.com/alberti1/github-demo
+
+commit b55ff4be1be705a462793c8f85f576c1b057e85a
+Author: Rafael Alberti <alberti.rafa@gmail.com>
+Date:   Tue Oct 13 22:08:11 2015 +0100
+
+    Ponemos un nuevo mensaje!
+
+ hola.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit a71ae6b291a7c2bf972dddd8b3772aaecebe8746
+Author: alberti1 <alberti.rafa@gmail.com>
+Date:   Tue Oct 13 22:06:43 2015 +0100
+
+    Nuevo cambio nuevo commit
+
+ ficheroOnline | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit a121543dd3c5a02a54a81409f05a9370d64b34aa
+Author: alberti1 <alberti.rafa@gmail.com>
+Date:   Tue Oct 13 22:06:04 2015 +0100
+
+    Nuevo readme
+
+ README2.md | 3 +++
+ 1 file changed, 3 insertions(+)
+
+commit 5c251726c3780b1dc7dbb66ad6e7756291b8f28e
+Merge: c8dc423 7f3812a
+Author: Rafael Alberti <alberti.rafa@gmail.com>
+Date:   Tue Oct 13 22:04:50 2015 +0100
+
+    Merge branch 'master' of https://github.com/alberti1/github-demo
+
+commit c8dc423a9191e41e6a217bf62239bca38ffe14f7
+Author: Rafael Alberti <alberti.rafa@gmail.com>
+Date:   Tue Oct 13 22:03:35 2015 +0100
+
+    El nuevo cambio
+
+ hola.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 2feb7883d9cbc4e700b6796351dd07334272277c
+Author: Rafael Alberti <alberti.rafa@gmail.com>
+Date:   Tue Oct 13 22:00:46 2015 +0100
+
+    Este es un nuevo cambio
+
+ sinead.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 7f3812a1e706b1a1936c42ea1bfda4a8818f49c0
+Author: alberti1 <alberti.rafa@gmail.com>
+Date:   Tue Oct 13 21:55:26 2015 +0100
+
+    Create readme.md
+    
+    hola
+
+ README1.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 55627d964f39ab0692934fa770480bdf087ceede
+Merge: ad42f65 51ee978
+Author: Rafael Alberti <alberti.rafa@gmail.com>
+Date:   Tue Oct 13 21:52:01 2015 +0100
+
+    Merge branch 'master' of https://github.com/alberti1/github-demo
+
+commit ad42f65e863c84ba626073af8ac8d61382574ca6
+Author: Rafael Alberti <alberti.rafa@gmail.com>
+Date:   Tue Oct 13 21:11:55 2015 +0100
+
+    nuevo commit
+
+ hola.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 51ee978e87c66ccbf4ba8aaf59a6929697d4bb4e
+Author: alberti1 <alberti.rafa@gmail.com>
+Date:   Tue Oct 13 21:07:02 2015 +0100
+
+    Este commit online
+    
+    hola
+
+ ficheroOnline | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 2011d43aee0e8f9a3b56759a2cbbf761305ce684
+Author: Rafael Alberti <alberti.rafa@gmail.com>
+Date:   Mon Oct 12 21:28:23 2015 +0100
+
+    nuevos ficheros
+
+ hola.txt   | 0
+ sinead.txt | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit a0c03274d631c63e188bf0d6186b42aa6650f0bc
+Author: Rafael Alberti <alberti.rafa@gmail.com>
+Date:   Mon Oct 12 21:17:05 2015 +0100
+
+    claroooo
+
+ start.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 850810e711c48882fffdd07cca05130b487cfdea
+Author: Rafael Alberti <alberti.rafa@gmail.com>
+Date:   Mon Oct 12 21:14:00 2015 +0100
+
+    holaaaaaaaaaaaaaaa
+
+ start.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 0f4587a6ce1381ca4162c1cd0dec9c56846be8fb
+Author: Rafael Alberti <alberti.rafa@gmail.com>
+Date:   Mon Oct 12 21:12:19 2015 +0100
+
+    gueyyy the second change is arriving
+
+ start.txt | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 2087e577906822b02c33a8c8bb3cd8ed0933004b
+Author: Rafael Alberti <alberti.rafa@gmail.com>
+Date:   Mon Oct 12 21:10:25 2015 +0100
+
+    hola k pasa pringao
+
+ start.txt | 1 +
+ 1 file changed, 1 insertion(+)
+commit 32cdb046d737c7127667714888f46efd819b0390
+Author: Rafael Alberti <alberti.rafa@gmail.com>
+Date:   Tue Oct 13 22:55:26 2015 +0100
+
+    eeee
+
+ logConfirmacionesCambiosCommits.txt | 126 ++++++++++++++++++++++++++++++++++++
+ 1 file changed, 126 insertions(+)
+
+commit 5dfdda6d20226477d14212c788ff66dd4a407b2a
+Merge: b55ff4b a71ae6b
+Author: Rafael Alberti <alberti.rafa@gmail.com>
+Date:   Tue Oct 13 22:09:53 2015 +0100
+
+    Merge branch 'master' of https://github.com/alberti1/github-demo
+
+commit b55ff4be1be705a462793c8f85f576c1b057e85a
+Author: Rafael Alberti <alberti.rafa@gmail.com>
+Date:   Tue Oct 13 22:08:11 2015 +0100
+
+    Ponemos un nuevo mensaje!
+
+ hola.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit a71ae6b291a7c2bf972dddd8b3772aaecebe8746
+Author: alberti1 <alberti.rafa@gmail.com>
+Date:   Tue Oct 13 22:06:43 2015 +0100
+
+    Nuevo cambio nuevo commit
+
+ ficheroOnline | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit a121543dd3c5a02a54a81409f05a9370d64b34aa
+Author: alberti1 <alberti.rafa@gmail.com>
+Date:   Tue Oct 13 22:06:04 2015 +0100
+
+    Nuevo readme
+
+ README2.md | 3 +++
+ 1 file changed, 3 insertions(+)
+
+commit 5c251726c3780b1dc7dbb66ad6e7756291b8f28e
+Merge: c8dc423 7f3812a
+Author: Rafael Alberti <alberti.rafa@gmail.com>
+Date:   Tue Oct 13 22:04:50 2015 +0100
+
+    Merge branch 'master' of https://github.com/alberti1/github-demo
+
+commit c8dc423a9191e41e6a217bf62239bca38ffe14f7
+Author: Rafael Alberti <alberti.rafa@gmail.com>
+Date:   Tue Oct 13 22:03:35 2015 +0100
+
+    El nuevo cambio
+
+ hola.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 2feb7883d9cbc4e700b6796351dd07334272277c
+Author: Rafael Alberti <alberti.rafa@gmail.com>
+Date:   Tue Oct 13 22:00:46 2015 +0100
+
+    Este es un nuevo cambio
+
+ sinead.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 7f3812a1e706b1a1936c42ea1bfda4a8818f49c0
+Author: alberti1 <alberti.rafa@gmail.com>
+Date:   Tue Oct 13 21:55:26 2015 +0100
+
+    Create readme.md
+    
+    hola
+
+ README1.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 55627d964f39ab0692934fa770480bdf087ceede
+Merge: ad42f65 51ee978
+Author: Rafael Alberti <alberti.rafa@gmail.com>
+Date:   Tue Oct 13 21:52:01 2015 +0100
+
+    Merge branch 'master' of https://github.com/alberti1/github-demo
+
+commit ad42f65e863c84ba626073af8ac8d61382574ca6
+Author: Rafael Alberti <alberti.rafa@gmail.com>
+Date:   Tue Oct 13 21:11:55 2015 +0100
+
+    nuevo commit
+
+ hola.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 51ee978e87c66ccbf4ba8aaf59a6929697d4bb4e
+Author: alberti1 <alberti.rafa@gmail.com>
+Date:   Tue Oct 13 21:07:02 2015 +0100
+
+    Este commit online
+    
+    hola
+
+ ficheroOnline | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 2011d43aee0e8f9a3b56759a2cbbf761305ce684
+Author: Rafael Alberti <alberti.rafa@gmail.com>
+Date:   Mon Oct 12 21:28:23 2015 +0100
+
+    nuevos ficheros
+
+ hola.txt   | 0
+ sinead.txt | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit a0c03274d631c63e188bf0d6186b42aa6650f0bc
+Author: Rafael Alberti <alberti.rafa@gmail.com>
+Date:   Mon Oct 12 21:17:05 2015 +0100
+
+    claroooo
+
+ start.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 850810e711c48882fffdd07cca05130b487cfdea
+Author: Rafael Alberti <alberti.rafa@gmail.com>
+Date:   Mon Oct 12 21:14:00 2015 +0100
+
+    holaaaaaaaaaaaaaaa
+
+ start.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 0f4587a6ce1381ca4162c1cd0dec9c56846be8fb
+Author: Rafael Alberti <alberti.rafa@gmail.com>
+Date:   Mon Oct 12 21:12:19 2015 +0100
+
+    gueyyy the second change is arriving
+
+ start.txt | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 2087e577906822b02c33a8c8bb3cd8ed0933004b
+Author: Rafael Alberti <alberti.rafa@gmail.com>
+Date:   Mon Oct 12 21:10:25 2015 +0100
+
+    hola k pasa pringao
+
+ start.txt | 1 +
+ 1 file changed, 1 insertion(+)
