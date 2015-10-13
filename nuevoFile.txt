@@ -1,0 +1,26 @@
+285bc86 pretty format
+A	confirmacionesLogUsandoStatCommand.txt
+A	onelineFichero.txt
+A	prettyFormat%s%ar.txt
+A	prettyOnelineLog.txt
+32cdb04 eeee
+A	logConfirmacionesCambiosCommits.txt
+5dfdda6 Merge branch 'master' of https://github.com/alberti1/github-demo
+b55ff4b Ponemos un nuevo mensaje!
+M	hola.txt
+a71ae6b Nuevo cambio nuevo commit
+M	ficheroOnline
+a121543 Nuevo readme
+A	README2.md
+5c25172 Merge branch 'master' of https://github.com/alberti1/github-demo
+c8dc423 El nuevo cambio
+M	hola.txt
+2feb788 Este es un nuevo cambio
+M	sinead.txt
+7f3812a Create readme.md
+A	README1.md
+55627d9 Merge branch 'master' of https://github.com/alberti1/github-demo
+ad42f65 nuevo commit
+M	hola.txt
+51ee978 Este commit online
+A	ficheroOnline
